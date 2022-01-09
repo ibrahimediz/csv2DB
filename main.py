@@ -3,7 +3,7 @@
 # from core.screen import App
 # from PyQt5.QtWidgets import QApplication, QMainWindow
 # import sys
-##### dededed
+##### JAMİRYO
 # def main():
 #     app = QApplication(sys.argv)
 #     ex = App()
